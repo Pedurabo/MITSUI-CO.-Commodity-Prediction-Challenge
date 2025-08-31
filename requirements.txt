@@ -11,4 +11,13 @@ optuna
 shap
 scipy
 psutil
-holidays 
+holidays
+torch
+tensorflow
+keras
+transformers
+datasets
+accelerate
+wandb
+tqdm
+optuna 
